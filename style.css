@@ -18,3 +18,10 @@ ul{
 h1{
     color: pink;
 }
+.id{
+    color: blueviolet;
+    background-color: bisque;
+}
+.fi{
+    border: 50px ridge rgb(116, 111, 116);
+}
