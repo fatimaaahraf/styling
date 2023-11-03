@@ -11,12 +11,17 @@ body{
 }
 h3{
     color: rgb(75, 42, 105);
+    font-family: 'Rubik', sans-serif;
+
+
 }
 ul{
     color: greenyellow;
+    
 }
 h1{
     color: pink;
+    font-family: 'Roboto', sans-serif;
 }
 .id{
     color: blueviolet;
@@ -24,4 +29,7 @@ h1{
 }
 .fi{
     border: 50px ridge rgb(116, 111, 116);
+}
+h2{
+    font-family: 'Roboto', sans-serif;
 }
